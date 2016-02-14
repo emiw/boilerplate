@@ -51,7 +51,7 @@
     "gulp-sourcemaps": "1.6.0",
     "gulp-util": "3.0.7",
     "load-deps": "1.0.3",
-    "mocha": "2.3.4",
+    "mocha": "2.4.3",
     "require-dir": "0.3.0",
     "rewire": "2.5.0",
     "sinomocha": "0.2.4",
