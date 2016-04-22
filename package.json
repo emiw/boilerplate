@@ -50,7 +50,7 @@
     "gulp-eslint": "1.1.1",
     "gulp-sourcemaps": "1.6.0",
     "gulp-util": "3.0.7",
-    "load-deps": "1.0.3",
+    "load-deps": "1.0.5",
     "mocha": "2.3.4",
     "require-dir": "0.3.0",
     "rewire": "2.5.0",
